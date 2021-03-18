@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Overpass:wght@100;200;300;400;600;700;800;900&family=Rajdhani:wght@300;400;500;600;700&display=swap');
+
+#faq {
+    padding-bottom: 5em;
+}
+
+#faq .HelpCenter {
+    background-color: #a0d2dd40;
+}
+
+.HelpCenter h1 {
+    font-size: 35px;
+    margin: 0;
+    padding: 20px 0;
+    font-family: var(--font-one);
+}
+
+.FAQ {
+    margin-top: 30px;
+}
+
+.FAQ .FAQWrap {
+    padding: 0 10px;
+    height: fit-content;
+}
+
+.FAQWrap .FAQContent {
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.FAQContent h3 {
+    font-size: 18px;
+    font-family: var(--font-one);
+    margin-block-start: .8em;
+    margin-block-end: .8em;
+    font-weight: 600;
+}
+
+.FAQContent svg {
+    height: 25px;
+    width: 25px;
+}
+
+.ContentWrap {
+    border-bottom: 1px solid var(--theme-one);
+}
+
+.FAQWrap .Answer {
+    padding-bottom: 1.8em;
+}   
+
+.FAQWrap .Answer label {
+    line-height: 20px;
+}
+
+@media(max-width: 750px) {
+
+    .-pa-h {
+        padding: 0 20px;
+    }
+
+    .HelpCenter h1 {
+        font-size: 25px;
+        padding: 10px 0;
+    }
+
+    .FAQ .FAQWrap {
+        padding: 0 10px;
+    }
+
+    .FAQContent h1 {
+        font-size: 16px;
+    }
+
+    .FAQContent svg {
+        height: 18px;
+        width: 18px;
+    }
+
+    .FAQWrap .Answer {
+        padding-bottom: 1em;
+    }   
+
+    .FAQWrap .Answer label {
+        font-family: var(--font-one);
+        line-height: 18px;
+        font-size: 14px;
+    }
+}

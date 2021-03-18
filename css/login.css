@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Overpass:wght@100;200;300;400;600;700;800;900&family=Rajdhani:wght@300;400;500;600;700&display=swap');
+
+
+section:nth-child(2) .form-holder {
+    width: 60%;
+}
+
+/* form-holder grid-left-layout */
+section:nth-child(2) .form-holder div:nth-child(1) {
+    grid-column: 2;
+    grid-row: 1;
+    width: 100%;
+}
+
+section:nth-child(2) .form-holder div:nth-child(1) form .btn {
+    padding: 8px 7em;
+}
+
+/* fomr-holder grid-right-layout */
+section:nth-child(2) .form-holder div:nth-child(2) {
+    background-color: var(--white);
+}
+
+/* form header */
+section:nth-child(2) .form-holder div:nth-child(2) h2 {
+    color: var(--black);
+    line-height: 30px;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+section:nth-child(2) .form-holder div:nth-child(2) {
+    text-align: unset;
+}
+
+section:nth-child(2) .form-holder div:nth-child(2) ul li {
+    display: flex;
+    color: #222;
+    padding: 5px 0;
+}
+
+section:nth-child(2) .form-holder div:nth-child(2) ul li small {
+    padding-left: 7px;
+}
+
+#login-section ul li svg {
+    height: 15px;
+    width: 15px;
+    fill: #a0d2dd;
+}
+
+@media(max-width: 1024px) { 
+    section:nth-child(2) .form-holder {
+        width: 85%;
+        height: 50%;
+    }
+}
+
+@media(max-width: 769px) { 
+    section:nth-child(2) .form-holder {
+        width: 85%;
+    }
+}
+
+@media(max-width: 750px) {
+    header {
+        display: block;
+    }
+
+    section:nth-child(2) {
+        height: 70vh;
+    }
+
+    section:nth-child(2) .form-holder {
+        width: 85%;
+        height: 80%;
+    }
+
+    section:nth-child(2) .form-holder div:nth-child(2) {
+        display: none;
+    }
+
+    section:nth-child(2) .form-holder div:nth-child(1) {
+        grid-row: 1;
+        grid-column: 1;
+    }
+}

@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Overpass:wght@100;200;300;400;600;700;800;900&family=Rajdhani:wght@300;400;500;600;700&display=swap');
+
+/* More money... article */
+.article .image-holder-wrap {
+    background-color: transparent;
+}
+
+/* Banking that... article */
+article:nth-child(2) {}
+
+article .icon {
+    background-color: #0593fb;
+}
+
+article .icon .msk {
+    background-color: var(--white);
+}
+
+article ul {
+    width: 80%;
+}
+
+/* Spending habits.., article */
+.article-1 ul li {
+    padding: 5px 0;
+}
+
+.article-2 {
+    margin-bottom: 5em;
+}
+
+.article-2 .image-holder-wrap .image-holder {
+    position: relative;
+}
+
+.article-2 .image-holder-wrap .image-holder img {
+    clip-path: inset(0);
+}
+
+.article-2 .image-holder-wrap .image-holder div {
+    height: 80px;
+    width: 80px;
+    background-color: #0593fb;
+    border-radius: 10px;
+    position: absolute;
+    top: -15px;
+    right: 0;
+}
+
+
+@media(max-width: 769px) {
+    article ul {
+        width: 100%;
+    }
+}
+
+@media(max-width: 750px) {
+    .empty-section {
+        display: none;
+    }
+
+    .btw h1 {
+        margin-bottom: 1em;
+    }
+
+    article ul {
+        width: 100%;
+    }
+
+    .article-2 .image-holder-wrap .image-holder div {
+        height: 40px;
+        width: 40px;
+        border-radius: 5px;
+        top: 20%;
+    }
+
+    .article-2 .image-holder-wrap .image-holder div svg {
+        height: 20px;
+        width: 20px;
+    }
+}

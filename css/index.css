@@ -1,0 +1,342 @@
+@import url('https://fonts.googleapis.com/css2?family=Overpass:wght@100;200;300;400;600;700;800;900&family=Rajdhani:wght@300;400;500;600;700&display=swap');
+
+/* hero-page */
+section:nth-child(2) {
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 2em;
+}
+
+/* hero page grid-left-layout */
+section:nth-child(2) div:nth-child(1) {
+    /* width: 80%; */
+}
+
+section:nth-child(2) h1 {
+    font-size: 48px;
+    line-height: 55px;
+    margin: 15px 0;
+    /* word-break: break-all; */
+}
+
+section:nth-child(2) div label, section:nth-child(5) div label {
+    line-height: 25px;
+}
+
+/* security icon */
+.heropage-icon {
+    width: 40%;
+    margin: 25px 0;
+}
+
+.heropage-icon div small {
+    padding-left: 5px;
+    font-family: var(--font-one);
+    font-weight: 600;
+    color: var(--header-col);
+}
+
+.heropage-icon div:nth-child(2) {
+    padding-left: 50px;
+}
+
+/* secuirty icon ends */
+
+/* hero page form */ 
+/* Also used by services.html */
+form .btn {
+    padding: 10px 2em;
+    border-radius: 20px;
+    font-size: 16px;
+}
+
+/* hero page form ends */
+
+/* hero page image && hero page grid-right-layout*/
+.heropage-img {
+    position: relative;
+}
+
+.heropage-img .dashboard-img {
+    height: 400px;
+    width: 700px;
+    clip-path: inset(0 10px 0 0px);
+}
+
+.dashboard-img img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 4px;
+    clip-path: inset(17px 0 0 0);
+}
+
+.dashboard-img img:nth-child(2) {
+    height: 70%;
+    width: 75%;
+    object-fit: cover;
+    position: absolute;
+    right: -10px;
+    top: 60px;
+    border-radius: 4px;
+}
+/* hero page ends */
+
+
+/* Our  Services && all section takes this attributes*/
+/* Also find Bank that works from services,html  */
+section .icon, article .icon {
+    height: 50px;
+    width: 50px;
+    background-color: #ff000038;
+}
+
+section .icon .msk, article .icon .msk {
+    height: 55%;
+    -webkit-mask-image: url(../assets/icons/cube.svg);
+    mask-image: url(../assets/icons/two_hands.svg);
+    mask-repeat: no-repeat;
+    background-color: var(--red);
+    width: 55%;
+}
+
+section:nth-child(3) h1, .btw h1 {
+    margin-bottom: 2em;
+}
+
+.services-list, article .btw-list {
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 2em;
+    margin-bottom: 2em;
+}
+
+/* how it works */
+section:nth-child(4) {
+    padding: 5em 0 0 0;
+}
+
+section:nth-child(4) .icon {
+    background-color: hsla(0, 0%, 100%, .15);
+    backdrop-filter: blur(15px);
+    -webkit-backdrop-filter: blur(15px);
+}
+
+section:nth-child(4) .icon .msk {
+    background-color: var(--white);
+}
+
+section:nth-child(4) ul li {
+    padding-right: 10px;
+}
+
+section:nth-child(4) .card {
+    width: 220px;
+    height: 400px;
+    background-color: var(--red);
+    padding: 40px 30px 0 30px;
+    color: var(--smokewhite);
+}
+
+section:nth-child(4) .card h3 {
+    padding: 5px 0;
+    color: var(--smokewhite);
+}
+
+section:nth-child(4) div:nth-child(1) {
+    margin: 3.5em 0;
+}
+/* how it works ends */
+
+
+/*Investment */
+section .image-holder-wrap, .article .image-holder-wrap {
+    height: 555px;
+    width: 600px;
+    background-color: #a0d2dd48;
+}
+
+section:nth-child(6) .image-holder-wrap {
+    grid-column: 2/3;
+    grid-row: 1/2;
+}
+
+section:nth-child(5), section:nth-child(6), .article {
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 2em;
+    margin-top: 8em;
+}
+
+section:nth-child(5) h1, section:nth-child(6) h1, .article h1 {
+    font-size: 35px;
+}
+
+section:nth-child(5) .image-holder, section:nth-child(6) .image-holder, .article .image-holder {
+    height: 400px;
+    width: 550px;
+}
+
+section:nth-child(5) .image-holder img, section:nth-child(6) .image-holder img, .article .image-holder img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 4px;
+}
+
+section:nth-child(5) .image-holder-wrap, .article .image-holder-wrap {
+    height: 400px;
+}
+
+section:nth-child(5) .image-holder img, .article .image-holder img  {
+    object-fit: contain;
+    clip-path: inset(5px 0 0 2px);
+}
+
+section:nth-child(6) .image-holder img{
+    height: 100%;
+    object-position: top;
+    filter: grayscale(100%) blur(1px);
+    transition: .5s;
+    transform: skewY(-4deg);
+}
+
+section:nth-child(6) .image-holder-wrap:hover img {
+    filter: none;
+}
+
+section:nth-child(6) {
+    margin-bottom: 8em;
+}
+/* Investment ends */
+
+
+@media(max-width: 768px) {
+    /* hero page */
+    section:nth-child(2) {
+        grid-template-columns: repeat(1, 1fr);
+        grid-gap: 2em;
+    }
+
+    /* how it works */
+    section:nth-child(4) .card {
+        width: 180px;
+        height: 400px;
+        padding: 40px 30px 0 30px;
+    }
+
+    /* investment */
+    section:nth-child(5), section:nth-child(6), .article {
+        grid-template-columns: repeat(1, 1fr);
+        grid-gap: 2em;
+        margin-top: 4em;
+        justify-items: center;
+    }
+
+    section:nth-child(6) .image-holder-wrap {
+        grid-column: 1/1;
+        grid-row: 1/1; 
+    }
+    /* investment ends */
+}
+
+@media(max-width: 750px) {
+
+    /* hero page grid-left-layout */
+    /* explore our services header */
+    /* investment header */
+    /* bank that works header from services.html */
+    section:nth-child(2) h1,
+    section:nth-child(3) h1,
+    section:nth-child(5) h1, section:nth-child(6) h1, .article h1, .btw h1 {
+        font-size: 25px;
+        line-height: 35px;
+        margin: 8px 0;
+    }
+
+    /* how it works header */
+    section:nth-child(2) h4 {
+        font-size: 12px;
+    }
+
+    /* hero page label */
+    section:nth-child(2) div label {
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+    .heropage-icon {
+        width: 40%;
+        margin: 20px 0;
+    }
+
+    /* hero page grid-right-layout */
+    .heropage-img {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .heropage-img .dashboard-img {
+        height: 400px;
+        width: 300px;
+    }
+
+    .dashboard-img img:nth-child(2) {
+        display: none;
+    }
+    
+
+    /* Our Services */
+    .services-list, article .btw-list {
+        grid-template-columns: repeat(1, 1fr);
+        grid-gap: 1em;
+    }
+
+    /* How it works */
+
+    section:nth-child(4) {
+        padding: 2em 0 0 0;
+    }
+
+
+    section:nth-child(4) ul {
+        flex-direction: column;
+    }
+
+    section:nth-child(4) ul li {
+        padding: 0;
+    }
+
+    section:nth-child(4) .card {
+        width: 220px;
+        height: 400px;
+        padding: 40px 30px 0 30px;
+    }
+
+    section:nth-child(4) .card label {
+        font-size: 15px;
+        line-height: 25px;
+    }
+
+    section:nth-child(4) div:nth-child(1) {
+        margin: 1em 0;
+    }
+    /* How it works ends */
+
+    /* Investment */
+    section .image-holder-wrap {
+        height: 400px;
+        width: 300px;
+        background-color: #a0d2dd48;
+    }
+
+    section:nth-child(5) .image-holder-wrap, .article .image-holder-wrap {
+        height: 200px;
+        width: 300px;
+        background-color: #a0d2dd48;
+    }
+
+    section .image-holder-wrap .image-holder, .article .image-holder-wrap .image-holder {
+        height: 350px;
+        width: 250px;
+    }
+
+}

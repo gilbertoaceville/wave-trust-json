@@ -1,0 +1,176 @@
+@import url('https://fonts.googleapis.com/css2?family=Overpass:wght@100;200;300;400;600;700;800;900&family=Rajdhani:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Open+Sans:wght@400;600;700&family=PT+Sans:wght@400;700&family=Roboto:wght@400;500;700&family=Ubuntu:wght@400;500;700&display=swap');
+
+.ContentsHeader h1 {
+    margin: 0;
+    font-size: 28px;
+    line-height: 40px;
+    padding: 20px 0 0 0;
+}
+
+.Contents .ContentsHeader label {
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.Contents .GuidelinesAttributes {
+    display: flex;
+    justify-content: center;
+}
+
+.GuidelinesAttributes .GuidelinesAttributesWrap {
+    margin-top: 20px;
+    height: 160px;
+    width: 600px;
+    color: var(--black);
+    background-color: #a0d2dd;
+    border-radius: 5px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.GuidelinesAttributesWrap .Attributes {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 1.5px 20px;
+}
+
+.GuidelinesAttributesWrap ul li {
+    font-weight: 600;
+}
+
+.GuidelinesAttributesWrap .AttributesLeftLayout ul li {
+    text-align: right;
+}
+
+.GuidelinesAttributesWrap .AttributesRightLayout ul li {
+    color: var(--black);
+}
+
+.GuidelinesAttributesWrap .Dots {
+    height: 10px;
+    width: 10px;
+    border-radius: 100%;
+    background-color: var(--black);
+    margin: 11px 0;
+}
+
+.GuidelinesText {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.GuidelinesText .GuidelinesTextHeader {
+    text-align: center;
+}
+
+.GuidelinesTextHeader h2 {
+    line-height: 50px;
+}
+
+.GuidelinesTextHeader label {
+    font-weight: 520;
+    padding-bottom: 2px;
+    border-bottom: 1.5px solid var(--theme);
+}
+
+.ContentRights {
+    margin-top: 30px;
+    padding: 0 50px;
+    cursor: pointer;
+    text-align: justify;
+}
+
+.ContentRights label {
+    line-height: 30px;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.ContentBtn {
+    margin: 25px 0 45px 0;
+}
+
+.ContentBtn .btn {
+    padding: 6px 5em;
+    font-size: 15px;
+}
+
+@media(max-width: 750px) {
+    .ContentsHeader h1 {
+        font-size: 20px;
+        line-height: 25px;
+        margin-top: 20px;
+    }
+
+    .Contents .ContentsHeader label, .GuidelinesTextHeader label {
+        font-size: 13px;
+    }
+
+    .ContentsWrap section article {
+        height: fit-content;
+        border-bottom-left-radius: 0;
+        border-bottom-right-radius: 0;
+        padding: 0 15px;
+        width: 91%;
+    }
+
+    .GuidelinesAttributesWrap .Attributes {
+        justify-content: space-between;
+        padding: 0;
+        width: 100%;
+    }
+
+    .GuidelinesAttributesWrap ul li {
+        font-size: 13px;
+    }
+
+    .GuidelinesAttributesWrap .AttributesLeftLayout ul li {
+        text-align: left;
+    }
+
+    .GuidelinesAttributesWrap .AttributesRightLayout ul li {
+        text-align: right;
+    }
+
+    .GuidelinesAttributesWrap .Dots {
+        height: 5px;
+        width: 5px;
+        margin: 15px 0;
+    }
+
+    ul {
+        padding: 5px 10px;
+    }
+
+    .GuidelinesTextHeader h2 {
+        font-size: 18px;
+        line-height: 23px;
+    }
+
+    .GuidelinesText {
+        margin-top: 15px;
+    }
+
+    .ContentRights {
+        margin-top: 20px;
+        padding: 0;
+        /* text-align: center; */
+    }
+
+    .ContentRights label {
+        line-height: 23px;
+        font-weight: 500;
+        font-size: 13px;
+    }
+
+    .ContentBtn {
+        margin: 20px 0;
+    }
+}
