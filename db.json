@@ -1,12 +1,210 @@
 {
     "posters" : [
+      {
+        "name": " Mumbai Saga",
+        "type": "movie",
+        "desc":
+          "The plot of the movie is set in the era of the 80s and 90s which were marked as a transformed period of Mumbai.",
+        "img": "https://m.media-amazon.com/images/M/MV5BYWE0YjVjMjgtY2JmYi00MGJhLWE2NjktNDU0MTYxODZhNzQ3XkEyXkFqcGdeQXVyOTg3MTI0NjA@._V1_UY268_CR2,0,182,268_AL_.jpg",
+        "active": false,
+        "genre": ["Action", "Crime"],
+        "downloadLink": "https://megaup.net/1C4gb",
+        "trailerLink": "https://www.youtube.com/watch?v=YTGO38DSIsc",
+        "details": [
+          "400 MB",
+          "135 min",
+          "HQ PreDVDRip",
+          "Sanjay Gupta",
+          "John Abraham, Sunil Shetty, Emraan Hashmi"
+        ]
+      },
+      {
+        "name": "Parris Jeyaraj",
+        "type": "movie",
+        "desc":
+          "Jeyaraj, a happy youngster gets into drinking into drinking as he had a sad breakup with his love plotted by the advocate who holds a grudge against him. He falls in love again, will he get married with the girl he loves or will fall prey to the plot again.",
+        "img": "https://m.media-amazon.com/images/M/MV5BYWJlYmViYjQtZjNlNi00OWZkLWJhYTgtNDk1ZTQxMDA1MjdiXkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1_UY268_CR8,0,182,268_AL_.jpg",
+        "active": false,
+        "genre": ["Drama"],
+        "downloadLink": "https://megaup.net/W6c1/",
+        "trailerLink": "https://www.youtube.com/watch?v=IGk51zb48So",
+        "details": [
+          "400 MB",
+          "136 min",
+          "HDRip",
+          "K. Johnson",
+          "Prudhviraj, Motta Rajendran, Sastika Rajendran"
+        ]
+      },
+      {
+        "name": "Time to Dance",
+        "type": "movie",
+        "desc":
+          "The plot revolve is around the life of a dancer girl. She meets and falls in love with a youngster. Their life revolves around dance. Things take a new turn as unexpected events happen in their life.",
+        "img": "https://m.media-amazon.com/images/M/MV5BODE5OWNkYjgtNDllZS00YjdhLTlkNWYtYjI1ZTY2OTAyMTdmXkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1_UY268_CR3,0,182,268_AL_.jpg",
+        "active": false,
+        "genre": ["Musical", "Romance"],
+        "downloadLink": "https://doodstream.com/d/zx91ypx1ghqd",
+        "trailerLink": "https://www.youtube.com/watch?v=hyp-B7vZ1Hk",
+        "details": [
+          "333 MB",
+          "158 min",
+          "PreDVDRip",
+          "Stanley D’Costa",
+          "Sooraj Pancholi, Isabelle Kaif, Sammy Jonas Heaney"
+        ]
+      },
+      {
+        "name": "Sanga Thalaivan",
+        "type": "movie",
+        "desc":
+          "The story of the textile workers’ struggle for justice in a small Indian region.",
+        "img": "https://m.media-amazon.com/images/M/MV5BOTkxMmI3MzktYWI4YS00NzdmLTg1MjUtODkyNWVjNzM0MjY2XkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1_UY268_CR4,0,182,268_AL_.jpg",
+        "active": false,
+        "genre": ["Drama"],
+        "downloadLink": "https://doodstream.com/d/ajb3nwmmcmma",
+        "trailerLink": "https://www.youtube.com/watch?v=hxlfd5MPnAk",
+        "details": [
+          "400 MB",
+          "123 min",
+          "HDRip",
+          "Manimaran",
+          "Karunas, Samuthirakani, Ramya Subramanian"
+        ]
+      },
+      {
+        "name": "Madam Chief Minister",
+        "type": "movie",
+        "desc":
+          "The right of a woman to live with dignity has always been at crossroads with society's norms.",
+        "img": "https://m.media-amazon.com/images/M/MV5BMmNlYzU3MmItMWQ4MC00MTZhLWEyZjctZjI0MDg3NzBlMTU4XkEyXkFqcGdeQXVyMTE2MjAzMTU3._V1_UY268_CR1,0,182,268_AL_.jpg",
+        "active": false,
+        "genre": ["Drama"],
+        "downloadLink": "https://doodstream.com/d/lbjxzawrsthf",
+        "trailerLink": "https://www.youtube.com/watch?v=mE_S5tUtb-s",
+        "details": [
+          "380 MB",
+          "130 min",
+          "NF HDRip",
+          "Subhash Kapoor",
+          "Richa Chadha, Manav Kaul, Saurabh Shukla"
+        ]
+      },
+      {
+        "name": "Naanum Single Thaan",
+        "type": "movie",
+        "desc":
+          "Uday meets an ambitious and independent girl named Shweta and ends up falling in love with her. After she refuses to date him he sought advice from a love guru.",
+        "img": "https://m.media-amazon.com/images/M/MV5BY2EwZmI4YmEtZmU0OC00NzM1LThiYmYtYTg2ZTI2OTdkYjY4XkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1_UY268_CR7,0,182,268_AL_.jpg",
+        "active": false,
+        "genre": ["Comedy","Romance"],
+        "downloadLink": "https://doodstream.com/d/qspthvdjzb4c",
+        "trailerLink": "https://www.youtube.com/watch?v=A60qTJDBqiU",
+        "details": [
+          "400 MB",
+          "120 min",
+          "HDRip",
+          "R. Gopi",
+          "Dinesh, Deepti Sati, Motta Rajendran"
+        ]
+      },
+      {
+        "name": "A Little Italian Vacation",
+        "type": "movie",
+        "desc":
+          "In this outrageous comedy, a group of high school Seniors juggle between old loves and new flings on the shores of a beautiful Italian town.",
+        "img": "https://m.media-amazon.com/images/M/MV5BYWZhNTVmMjMtN2RhZi00M2E1LTkwNTgtNGQ4Njg3NTkyNDNkXkEyXkFqcGdeQXVyMzM0Mjg0Njc@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "active": false,
+        "genre": ["Comedy", "Romance"],
+        "downloadLink": "https://doodstream.com/d/lazyhstemncj",
+        "trailerLink": "https://www.youtube.com/watch?v=tnr9frEhy7E",
+        "details": [
+          "250 MB",
+          "78 min",
+          "HDRip",
+          "Felipe Torres Urso",
+          "Hannah van der Westhuysen, Karen Maruyama, Emma Curtis"
+        ]
+      },
+      {
+        "name": "Love is a Piece of Cake",
+        "type": "movie",
+        "desc":
+          "Jessie Dale is a third generation baker who loves her cake shop more than anything in the world. When developers threaten to buy her building and force her out, she must do all she can to save her bakery, all while juggling a blossoming romance with her client's brother.",
+        "img": "https://m.media-amazon.com/images/M/MV5BNTM4Y2ZjMWMtZjk1ZC00NjdhLWIxNWItZTU4NGU2YTAzNjhmXkEyXkFqcGdeQXVyMTQyNDk2NzE@._V1_UY268_CR2,0,182,268_AL_.jpg",
+        "active": false,
+        "genre": ["Romance"],
+        "downloadLink": "https://moviepl.xyz/f/myjm4s560zpgjgl",
+        "trailerLink": "https://www.youtube.com/watch?v=hcpTJil-oHI",
+        "details": [
+          "981 MB",
+          "90 min",
+          "HDRip",
+          "David I. Strasser",
+          "Lindsey Gort, Julia Benson, Greyston Holt"
+        ]
+      },
+      {
+        "name": "Wu Song’s Bloody Battle With Lion House",
+        "type": "movie",
+        "desc":
+          "Ximen Qing has fallen for Pan Jinlian’s unparalleled look, and he bribes Granny Wang in order for him to possess Pan Jinlian. Wu Dalang was kicked to the ground and vomited blood when he caught them red-handed. Under Granny Wang’s and Ximen Qing’s instigation, Pan Jinlian poisoned Wu Dalang and killed him. In order to avenge his brother, Wu Song kills Pan Jinlian, and he beheaded Ximen Qing himself.",
+        "img": "https://i.mydramalist.com/ZPAxk_4c.jpg?v=1",
+        "active": false,
+        "genre": ["Action","Fantasy"],
+        "downloadLink": "https://mega.nz/file/0EJATZ4D#2pOGAHY-KGr4jcMexM0e8yGLd85BUlyVGcs-4s5VdfQ",
+        "trailerLink": "https://www.youtube.com/watch?v=_CRsABONorU",
+        "details": [
+          "285 MB",
+          "93 min",
+          "WEB-DL",
+          "Ding Haifeng",
+          "Ding Hai Feng, Liu Yu Kun, Du Yu Ming"
+        ]
+      },
+      {
+        "name": "Cherry",
+        "type": "movie",
+        "desc":
+          "The wild journey of a disenfranchised young man from Ohio who meets the love of his life, only to risk losing her through a series of bad decisions and challenging life circumstances.",
+        "img": "https://www.vitalthrills.com/wp-content/uploads/2021/01/cherrymovie10.jpg",
+        "active": false,
+        "genre": ["Crime", "Drama"],
+        "downloadLink": "https://racaty.net/td7b79t5k0e2",
+        "trailerLink": "https://www.youtube.com/watch?v=cP5xs9lsbkg",
+        "details": [
+          "501 MB",
+          "141 min",
+          "HD 720",
+          "Joe Russo, Anthony Russo",
+          "Tom Holland, Ciara Bravo, Bill Skarsgård, Kelli Berglund"
+        ]
+      },
+      {
+        "name": "Paper Lives",
+        "type": "movie",
+        "desc":
+          "Mehmet is a cherished fellow who runs the solid waste warehouse in the neighborhood, he helps everyone in need, especially homeless children and teenagers since he was one too.",
+        "img": "https://d2j1wkp1bavyfs.cloudfront.net/image-assets/785534/cmru6N6Hnw2pJwuo1ctH1CxKqKZ.jpg?d=360x540&q=60",
+        "active": false,
+        "genre": ["Drama"],
+        "downloadLink": "https://moviepl.xyz/f/lnjz2fnewz2pe67",
+        "trailerLink": "https://www.youtube.com/watch?v=lXdSaVK-vzs",
+        "details": [
+          "893 MB",
+          "96 min",
+          "HD 720",
+          "Can Ulkay",
+          "Çagatay Ulusoy, Emir Ali Dogrul, Ersin Arici, Turgay Tanülkü"
+        ]
+      },
         {
           "name": "Teddy",
           "type": "movie",
           "desc":
             "A youngster with OCD sets out to save a girl from the clutches of an international medical mafia with the help of a teddy bear which behaves like humans. Will a talking teddy prove to be Man’s best friend? Witness a bizarre exchange between a loner and a toy bear as they solve medical mysteries against all odds.",
           "img": "https://m.media-amazon.com/images/M/MV5BODhlYTRhNGItZGJmMi00YjJmLWE2ZWYtNjBlNzQ2NjhjODc5XkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_.jpg",
-          "active": true,
+          "active": false,
           "genre": ["Action", "Thriller"],
           "downloadLink": "https://bayfiles.com/x0P2r9e9s8",
           "trailerLink": "https://www.youtube.com/watch?v=ev2YXBpz304",
@@ -109,24 +307,6 @@
           ]
         },
         {
-          "name": "63rd Grammy Award",
-          "type": "movie",
-          "desc":
-            "The 63rd Annual Grammy Awards ceremony was held in and around the Los Angeles Convention Center in Los Angeles on March 14, 2021. It recognized the best recordings, compositions, and artists of the eligibility year, running from September 1, 2019, to August 31, 2020.",
-          "img": "https://upload.wikimedia.org/wikipedia/en/7/75/63rd_Annual_Grammy_Awards.png",
-          "active": false,
-          "genre": ["Music", "TV Special"],
-          "downloadLink": "https://www.sabishare.com/file/QtanhXVGo21-the-63rd-annual-grammy-awards-2021-netnaija-com-mp4",
-          "trailerLink": "https://www.youtube.com/watch?v=HHfTqTjCsCY",
-          "details": [
-            "518.73 MB",
-            "161 min",
-            "Mp4",
-            "Hamish Hamilton, India Sleem, Kerry Asmussen",
-            "Trevor Noah, Harry Styles, Taylor Swift", "Billie Eilish"
-          ]
-        },
-        {
           "name": "The Heiress (2021)",
           "type": "movie",
           "desc":
@@ -142,24 +322,6 @@
             "HD 720",
             "Chris Bell",
             "Jonny Phillips, David Schaal, Candis Nergaard, Jayne Wisener"
-          ]
-        },
-        {
-          "name": "All My Friends Are Dead",
-          "type": "movie",
-          "desc":
-            "During the New Year’s Eve party of a bunch of friends, a series of crazy events brings out secrets, breaks hearts and leads to a shocking ending.",
-          "img": "https://m.media-amazon.com/images/M/MV5BZDY0OWRmZmQtMWJmNS00NmRmLWIwZjAtZDEzZTI4YWQyZjVlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY1200_CR113,0,630,1200_AL_.jpg",
-          "active": false,
-          "genre": ["Comedy", "Drama", "Thriller"],
-          "downloadLink": "https://mega.nz/file/DsdAnLBT#oFsLr8UNedLSto8Z9EEtiNf-ChtBSphARdzbAYKboe8",
-          "trailerLink": "https://www.youtube.com/watch?v=3YGw7N-6rFE",
-          "details": [
-            "445 MB",
-            "96 min",
-            "WEBRip",
-            "Jan Belcl",
-            " Michal Meyer, Adam Woronowicz, Julia Wieniawa-Narkiewicz"
           ]
         },
         {
@@ -291,24 +453,6 @@
           ]
         },
         {
-          "name": "Mr. Misunderstanding",
-          "type": "movie",
-          "desc":
-            "A cross-cultural romance and an intercultural friendship between Ram, Rosy and Anu goes through a roller coaster ride of love, laughter and misunderstandings.",
-          "img": "https://m.media-amazon.com/images/M/MV5BMzRlY2RiNzUtMDVkMy00ZTRjLTg1ZGYtNmQ2MDA1NThhYTM3XkEyXkFqcGdeQXVyNzYxNTgwNDU@._V1_UY1200_CR85,0,630,1200_AL_.jpg",
-          "active": false,
-          "genre": ["Comedy", "Drama", "Romance"],
-          "downloadLink": "https://dl.thekonversation.net/movie-mr-misunderstanding/",
-          "trailerLink": "https://www.youtube.com/watch?v=SDPUGJqMUqM",
-          "details": [
-            "693.98MB",
-            "80 min",
-            "",
-            "Muralidharan Chinniah",
-            "Harsh Naik, Sunil Kumar, Catalina Caraus, Atul Sharma"
-          ]
-        },
-        {
           "name": "The Croods",
           "type": "movie",
           "desc":
@@ -345,40 +489,22 @@
           ]
         },
         {
-          "name": "Shadow land",
+          "name": "Illuminate",
           "type": "movie",
           "desc":
-            "They sought sanctuary. They found him. 'An ex-serviceman is forced to seek refuge for his team and the family in their charge in rural Scotland, with devastating consequences.",
-          "img": "https://m.media-amazon.com/images/M/MV5BMzU1YjFlYWQtZjhkZi00ZjVlLTlhMDctN2MwMzM2MzExNzIyXkEyXkFqcGdeQXVyMjEwNjUxOA@@._V1_.jpg",
+            "A luminous force within Mount Shasta may hold clues behind the disappearance of Emma Rose’s brother and grandfather. Emma discovers her unique ability to astral travel back through time which may unlock the mystery to their disappearance.",
+          "img": "https://m.media-amazon.com/images/M/MV5BYTM1MjE1ZTQtZWI2Yy00YWYxLTljMWEtMmM3N2I3MTI3MzEwXkEyXkFqcGdeQXVyNTQ4Njc2Mzc@._V1_UX182_CR0,0,182,268_AL_.jpg",
           "active": false,
-          "genre": ["Mystery"],
+          "genre": ["Sci-Fi"],
           "downloadLink":
-            "http://dl8.m30t1.ir/f/Shadowland.2021.720p.WEB-DL.YTS.MOVIE30T.mkv",
-          "trailerLink": "https://www.youtube.com/watch?v=w8XLlJyrKCc",
+            "https://doodstream.com/d/dat4i9vuw4oj",
+          "trailerLink": "https://www.youtube.com/watch?v=pBTB01npkjw",
           "details": [
-            "675 MB",
-            "73 min",
-            "WEB-DL",
-            "Simon Kay",
-            "Amelia Eve, Rebecca Finch, Vivien Taylor, Tony Greengrass"
-          ]
-        },
-        {
-          "name": "Sometimes other than Now",
-          "type": "movie",
-          "desc":
-            "Seeking redemption, a middle aged man drives across the country, in search of the daughter he abandoned as a child.",
-          "img": "https://m.media-amazon.com/images/M/MV5BYjJmN2UwOTktZDJkZC00MzZmLTk0MmMtMzYxYjY3ZmQ0YmQ5XkEyXkFqcGdeQXVyMjA0MDU4MDg@._V1_UX182_CR0,0,182,268_AL_.jpg",
-          "active": false,
-          "genre": ["Drama"],
-          "downloadLink": "https://moviepl.xyz/f/x4kj7h5kpnx2kr8",
-          "trailerLink": "https://www.youtube.com/watch?v=6_Gl5XO1FcM",
-          "details": [
-            "859.71 MB",
-            "89 min",
-            "HD 720",
-            "Dylan McCormick",
-            "Amy Hargreaves,Kate Walsh,Donal Logue,Trieste Kelly Dunn"
+            "200 MB",
+            "61 min",
+            "HDRip",
+            "James Cardoza",
+            "Ava Cardoza, Sabra Morin, Quinn Stahlman"
           ]
         },
         {
@@ -400,77 +526,40 @@
           ]
         },
         {
-          "name": "400 Bullets",
+          "name": "Wildcat",
           "type": "movie",
           "desc":
-            "Two soldiers in Afghanistan face off against a group of rogue special ops and a cell of heavily armed Taliban.",
-          "img": "https://media2.firstshowing.net/firstshowing/img11/400BulletsPosterorigmainbigimg599.jpg",
+            "An ambitious reporter stationed in the Middle East who is taken captive after her convoy is ambushed. She is confronted by the trauma of her past and must find a way to bring down the militants who incarcerated her.",
+          "img": "https://i1.wp.com/moviesandmania.com/wp-content/uploads/2021/03/Wildcat-movie-film-action-thriller-2021-Georgina-Campbell.jpg?fit=2598%2C1730&ssl=1",
           "active": false,
-          "genre": ["Action"],
-          "downloadLink": "https://dl.thekonversation.net/400-bullets-2021/",
-          "trailerLink": "https://www.youtube.com/watch?v=4ZZZiG13Dhg",
+          "genre": ["Drama"],
+          "downloadLink": "https://doodstream.com/d/at3rwqi7op15",
+          "trailerLink": "https://www.youtube.com/watch?v=fYjFQxRsb1k",
           "details": [
-            "824 MB",
-            "90 min",
-            "MKV",
-            "Tom Paton",
-            "Jean-Paul Ly, Andrew Lee Potts, James Warren"
+            "300 MB",
+            "93 min",
+            "HDRip",
+            "Jonathan W. Stokes",
+            "Georgina Campbell, Luke Benward, Ibrahim Renno"
           ]
         },
         {
-          "name": "BUOYANCY",
+          "name": "Necromancer",
           "type": "movie",
           "desc":
-            "When an overly ambitious student gets invited for a submarine journey by an eccentric entrepreneur, she comes to realize that deep-down inside people are not who they pretend to be.",
-          "img": "https://m.media-amazon.com/images/M/MV5BY2I0Y2Q3ZjEtMmIyYy00YWU4LTk0ZmQtZWUzZGM3ZmZlYjNlXkEyXkFqcGdeQXVyMTQ5Mzc5MDU@._V1_.jpg",
+            "Win is the only survivor from a black magic attack that has taken away his father’s sacred amulet. When he come back for revenge with a powerful sorcery, he is faced with a new powerful cult that help people to be wealthy but hide its roots of black magic behind the benevolent front. He will have to destroy this organization before it ruins more lives and also his girlfriend’s future.",
+          "img": "https://m.media-amazon.com/images/M/MV5BMDE3OWVmNjMtYTI2MS00ZjJmLWE2ZjUtNTEzNzVhMWIyZTY0XkEyXkFqcGdeQXVyMTA3OTA3NTYz._V1_UY268_CR3,0,182,268_AL_.jpg",
           "active": false,
-          "genre": ["Thriller"],
-          "downloadLink": "https://moviepl.xyz/f/60rx3b038n170k2",
-          "trailerLink": "https://www.youtube.com/watch?v=_jrGbzB46P8",
-          "details": [
-            "941.26MB",
-            "90 min",
-            "HD 720",
-            "Roel Leijten",
-            "Rebecca Finch,Portia Booroff,Michael Wagner,Eline Havenaar"
-          ]
-        },
-        {
-          "name": "Lucky",
-          "type": "movie",
-          "desc":
-            "Lucky follows May, a self-help book author with all the answers, who suddenly finds herself stalked by a threatening but elusive masked man, and caught in a struggle to get help from the people around her and maintain control over her own life.",
-          "img": "https://skonmovies.com/wp-content/uploads/2020/08/lucky-poster.jpg",
-          "active": false,
-          "genre": ["Horror", "Thriller"],
+          "genre": ["Horror", "Action", "Fantasy"],
           "downloadLink":
-            "https://www57.zippyshare.com/d/ooSkCCXf/45533/Lucky.2020.480p.WEBRip.x265.mkv",
-          "trailerLink": "https://www.youtube.com/watch?v=5TC2QkqqtgQ",
+            "https://www.sabishare.com/file/HWwiMBOwW72-necromancer-2020-2019-netnaija-com-mp4",
+          "trailerLink": "https://www.youtube.com/watch?v=bHGot_8mHP4",
           "details": [
-            "100.28 MB",
-            "81 min",
-            "WEBRip",
-            "Natasha Kermani",
-            "Brea Grant, Dhruv Uday Singh, Yasmine Al-Bustami, Kausar Mohammed"
-          ]
-        },
-        {
-          "name": "Son",
-          "type": "movie",
-          "desc":
-            "When a young boy contracts a mysterious illness, his mother must decide how far she will go to protect him from terrifying forces in her past.",
-          "img": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/Son_film.jpg/220px-Son_film.jpg",
-          "active": false,
-          "genre": ["Horror", "Thriller"],
-          "downloadLink":
-            "https://www.mediafire.com/file/ydvx5r4c54j17bv/MoviesRush.in_Sn.2021.En915h.480p.WEB-DL.x264.ESb5.mkv/file",
-          "trailerLink": "https://www.youtube.com/watch?v=_j7MgIltWys",
-          "details": [
-            "291 MB",
-            "98 min",
-            "WEB-DL",
-            "Ivan Kavanagh",
-            "Rene Bastian, Louis Tisné, AnneMarie Naughton, Ben Cornwell"
+            "270 MB",
+            "114 min",
+            "Mp4",
+            "Piyapan Choopetch",
+            "Chicha Amatayakul, Pitchapa Phanthumchinda, Chatchai Plengpanich"
           ]
         },
         {
@@ -604,60 +693,22 @@
           ]
         },
         {
-          "name": "Boyhood",
+          "name": "Finding Love in Mountain View",
           "type": "movie",
           "desc":
-            "After MJ's parents' divorce, he and his sister Samantha live with their mother, whereas the father has visiting rights. Incidents that occur across a period of twelve years mould MJ's life.",
-          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5g5UL29ZaQy_sAQ8cmHpJ5jxnYvPB5V_J4w&usqp=CAU",
+            "After learning she's been entrusted to take care of her deceased cousin's children, an architect is torn between focusing on her career and honoring her cousin's wish.",
+          "img": "https://m.media-amazon.com/images/M/MV5BZTdiOGE1ODctMGQyMy00MzE3LWE3ODItNDlhODAxMTRjYTVlXkEyXkFqcGdeQXVyMjAzNjAzMQ@@._V1_UY268_CR1,0,182,268_AL_.jpg",
           "active": false,
-          "genre": ["Drama", "Epic"],
+          "genre": ["Romance"],
           "downloadLink":
-            "https://www.mediafire.com/file/lsgrf3p7vng0hqe/MoviesRush.in_Fry.2014.D1.Ad.Hnd.480p.B1Ry.mkv/file",
-          "trailerLink": "https://www.youtube.com/watch?v=Y0oX0xiwOv8",
+            "https://megaup.net/2i3gp",
+          "trailerLink": "https://www.youtube.com/watch?v=h9MCCMMfLvY",
           "details": [
-            "650 MB",
-            "165 min",
+            "280 MB",
+            "89 min",
             "Blu-ray",
-            "Richard Linklater",
-            "Ellar Coltrane, Patricia Arquette, Ethan Hawke, Lorelei Linklater"
-          ]
-        },
-        {
-          "name": "Nightcrawler",
-          "type": "movie",
-          "desc":
-            "NIGHTCRAWLER is a thriller set in the nocturnal underbelly of contemporary Los Angeles. Jake Gyllenhaal stars as Lou Bloom, a driven young man desperate for work who discovers the high-speed world of L.A. crime journalism. Finding a group of freelance camera crews who film crashes, fires, murder.",
-          "img": "http://www.limitedruns.com/media/cache/bb/af/bbaf36758468fe936807824fddb3c2c3.jpg",
-          "active": false,
-          "genre": ["Crime", "Drama", "Thriller"],
-          "downloadLink":
-            "https://www.mediafire.com/file/rnr2l37k9gyajwl/MoviesRush.in_N9htcrw1r.2014.480p.B1Ry.x264.450MB..mkv/file",
-          "trailerLink": "https://www.youtube.com/watch?v=u1uP_8VJkDQ",
-          "details": [
-            "450 MB",
-            "117 min",
-            "Blu-ray",
-            "Dan Gilroy",
-            "Jake Gyllenhaal, Rene Russo, Bill Paxton"
-          ]
-        },
-        {
-          "name": "Mommy",
-          "type": "movie",
-          "desc":
-            "A widowed single mother, raising her violent son alone, finds new hope when a mysterious neighbor inserts herself into their household.",
-          "img": "https://images-na.ssl-images-amazon.com/images/I/513Ho66TcSL._AC_.jpg",
-          "active": false,
-          "genre": ["Drama"],
-          "downloadLink":
-            "https://mega.nz/#!RIwQSCCb!4TRSscsCgzI6j_k6iMlYDYFk0WLpjI_VKi7jXlRkeSk",
-          "trailerLink": "https://www.youtube.com/watch?v=Q9LVLCYvqSI",
-          "details": [
-            "540 MB",
-            "138 min",
-            "Blu-ray",
-            "Xavier Dolan",
-            "Anne Dorval, Antoine Olivier Pilon, Suzanne Clément"
+            "Sandra L. Martin",
+            "Danielle C. Ryan, Myko Olivier, John-Paul Lavoisier"
           ]
         },
         {
@@ -751,78 +802,6 @@
             "WEB-DL",
             "Brian DeCubellis",
             "Katherine McNamara, Victoria Justice, Matthew Daddario"
-          ]
-        },
-        {
-          "name": "Lazarus",
-          "type": "movie",
-          "desc":
-            "A super powered vigilante fights an organization to free a city from darkness.",
-          "img": "https://i0.wp.com/moviesandmania.com/wp-content/uploads/2021/03/Lazarus-movie-film-supernatural-superhero-vigilante-2021-review-reviews-Sean-Riggs-poster.jpg?resize=300%2C440&ssl=1",
-          "active": false,
-          "genre": ["Action"],
-          "downloadLink": "https://moviepl.xyz/f/e2j76h-xn7ywyjy",
-          "trailerLink": "https://www.youtube.com/watch?v=DelXSGmGIvQ",
-          "details": [
-            "800 MB",
-            "105 min",
-            "HD 720",
-            "R.L. Scott",
-            "Costas Mandylor, Nicki Micheaux, Sean Riggs, Shane Brolly"
-          ]
-        },
-        {
-          "name": "Cherry",
-          "type": "movie",
-          "desc":
-            "The wild journey of a disenfranchised young man from Ohio who meets the love of his life, only to risk losing her through a series of bad decisions and challenging life circumstances.",
-          "img": "https://www.vitalthrills.com/wp-content/uploads/2021/01/cherrymovie10.jpg",
-          "active": false,
-          "genre": ["Crime", "Drama"],
-          "downloadLink": "https://racaty.net/td7b79t5k0e2",
-          "trailerLink": "https://www.youtube.com/watch?v=cP5xs9lsbkg",
-          "details": [
-            "501 MB",
-            "141 min",
-            "HD 720",
-            "Joe Russo, Anthony Russo",
-            "Tom Holland, Ciara Bravo, Bill Skarsgård, Kelli Berglund"
-          ]
-        },
-        {
-          "name": "Paper Lives",
-          "type": "movie",
-          "desc":
-            "Mehmet is a cherished fellow who runs the solid waste warehouse in the neighborhood, he helps everyone in need, especially homeless children and teenagers since he was one too.",
-          "img": "https://d2j1wkp1bavyfs.cloudfront.net/image-assets/785534/cmru6N6Hnw2pJwuo1ctH1CxKqKZ.jpg?d=360x540&q=60",
-          "active": false,
-          "genre": ["Drama"],
-          "downloadLink": "https://moviepl.xyz/f/lnjz2fnewz2pe67",
-          "trailerLink": "https://www.youtube.com/watch?v=lXdSaVK-vzs",
-          "details": [
-            "893 MB",
-            "96 min",
-            "HD 720",
-            "Can Ulkay",
-            "Çagatay Ulusoy, Emir Ali Dogrul, Ersin Arici, Turgay Tanülkü"
-          ]
-        },
-        {
-          "name": "Insight",
-          "type": "movie",
-          "desc":
-            "Jian is a counter terrorism agent who blends his skills as a martial artist and clairvoyant to bring the world’s most nefarious individuals to justice. ",
-          "img": "https://m.media-amazon.com/images/M/MV5BMWI1OWY3MzItNTEyNi00OTRkLTk1ZmYtMmZmM2FiNzg4ZGNlXkEyXkFqcGdeQXVyNTcxMTU0MjA@._V1_UY1200_CR85,0,630,1200_AL_.jpg",
-          "active": false,
-          "genre": ["Action"],
-          "downloadLink": "https://racaty.net/2ljjoet3d84m",
-          "trailerLink": "https://www.youtube.com/watch?v=k1l0ioTCt4A",
-          "details": [
-            "700 MB",
-            "80 min",
-            "WEB-DL",
-            "Ken Zheng, Livi Zheng",
-            "Tony Todd, Keith David, Madeline Zima, John Savage"
           ]
         },
         {

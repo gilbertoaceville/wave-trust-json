@@ -263,3 +263,188 @@
       padding: 0 48px;
    }
 }
+
+
+        /* // {
+        //   "name": "63rd Grammy Award",
+        //   "type": "movie",
+        //   "desc":
+        //     "The 63rd Annual Grammy Awards ceremony was held in and around the Los Angeles Convention Center in Los Angeles on March 14, 2021. It recognized the best recordings, compositions, and artists of the eligibility year, running from September 1, 2019, to August 31, 2020.",
+        //   "img": "https://upload.wikimedia.org/wikipedia/en/7/75/63rd_Annual_Grammy_Awards.png",
+        //   "active": false,
+        //   "genre": ["Music", "TV Special"],
+        //   "downloadLink": "https://www.sabishare.com/file/QtanhXVGo21-the-63rd-annual-grammy-awards-2021-netnaija-com-mp4",
+        //   "trailerLink": "https://www.youtube.com/watch?v=HHfTqTjCsCY",
+        //   "details": [
+        //     "518.73 MB",
+        //     "161 min",
+        //     "Mp4",
+        //     "Hamish Hamilton, India Sleem, Kerry Asmussen",
+        //     "Trevor Noah, Harry Styles, Taylor Swift", "Billie Eilish"
+        //   ]
+        // },
+        // {
+                //   "name": "All My Friends Are Dead",
+                //   "type": "movie",
+                //   "desc":
+                //     "During the New Year’s Eve party of a bunch of friends, a series of crazy events brings out secrets, breaks hearts and leads to a shocking ending.",
+                //   "img": "https://m.media-amazon.com/images/M/MV5BZDY0OWRmZmQtMWJmNS00NmRmLWIwZjAtZDEzZTI4YWQyZjVlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY1200_CR113,0,630,1200_AL_.jpg",
+                //   "active": false,
+                //   "genre": ["Comedy", "Drama", "Thriller"],
+                //   "downloadLink": "https://mega.nz/file/DsdAnLBT#oFsLr8UNedLSto8Z9EEtiNf-ChtBSphARdzbAYKboe8",
+                //   "trailerLink": "https://www.youtube.com/watch?v=3YGw7N-6rFE",
+                //   "details": [
+                //     "445 MB",
+                //     "96 min",
+                //     "WEBRip",
+                //     "Jan Belcl",
+                //     " Michal Meyer, Adam Woronowicz, Julia Wieniawa-Narkiewicz"
+                //   ]
+                // },
+                {
+                        "name": "Mr. Misunderstanding",
+                        "type": "movie",
+                        "desc":
+                          "A cross-cultural romance and an intercultural friendship between Ram, Rosy and Anu goes through a roller coaster ride of love, laughter and misunderstandings.",
+                        "img": "https://m.media-amazon.com/images/M/MV5BMzRlY2RiNzUtMDVkMy00ZTRjLTg1ZGYtNmQ2MDA1NThhYTM3XkEyXkFqcGdeQXVyNzYxNTgwNDU@._V1_UY1200_CR85,0,630,1200_AL_.jpg",
+                        "active": false,
+                        "genre": ["Comedy", "Drama", "Romance"],
+                        "downloadLink": "https://dl.thekonversation.net/movie-mr-misunderstanding/",
+                        "trailerLink": "https://www.youtube.com/watch?v=SDPUGJqMUqM",
+                        "details": [
+                          "693.98MB",
+                          "80 min",
+                          "",
+                          "Muralidharan Chinniah",
+                          "Harsh Naik, Sunil Kumar, Catalina Caraus, Atul Sharma"
+                        ]
+                      },
+                      {
+                        "name": "Sometimes other than Now",
+                        "type": "movie",
+                        "desc":
+                          "Seeking redemption, a middle aged man drives across the country, in search of the daughter he abandoned as a child.",
+                        "img": "https://m.media-amazon.com/images/M/MV5BYjJmN2UwOTktZDJkZC00MzZmLTk0MmMtMzYxYjY3ZmQ0YmQ5XkEyXkFqcGdeQXVyMjA0MDU4MDg@._V1_UX182_CR0,0,182,268_AL_.jpg",
+                        "active": false,
+                        "genre": ["Drama"],
+                        "downloadLink": "https://moviepl.xyz/f/x4kj7h5kpnx2kr8",
+                        "trailerLink": "https://www.youtube.com/watch?v=6_Gl5XO1FcM",
+                        "details": [
+                          "859.71 MB",
+                          "89 min",
+                          "HD 720",
+                          "Dylan McCormick",
+                          "Amy Hargreaves,Kate Walsh,Donal Logue,Trieste Kelly Dunn"
+                        ]
+                      },
+                      {
+                        "name": "BUOYANCY",
+                        "type": "movie",
+                        "desc":
+                          "When an overly ambitious student gets invited for a submarine journey by an eccentric entrepreneur, she comes to realize that deep-down inside people are not who they pretend to be.",
+                        "img": "https://m.media-amazon.com/images/M/MV5BY2I0Y2Q3ZjEtMmIyYy00YWU4LTk0ZmQtZWUzZGM3ZmZlYjNlXkEyXkFqcGdeQXVyMTQ5Mzc5MDU@._V1_.jpg",
+                        "active": false,
+                        "genre": ["Thriller"],
+                        "downloadLink": "https://moviepl.xyz/f/60rx3b038n170k2",
+                        "trailerLink": "https://www.youtube.com/watch?v=_jrGbzB46P8",
+                        "details": [
+                          "941.26MB",
+                          "90 min",
+                          "HD 720",
+                          "Roel Leijten",
+                          "Rebecca Finch,Portia Booroff,Michael Wagner,Eline Havenaar"
+                        ]
+                      },
+                      {
+                        "name": "Son",
+                        "type": "movie",
+                        "desc":
+                          "When a young boy contracts a mysterious illness, his mother must decide how far she will go to protect him from terrifying forces in her past.",
+                        "img": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/Son_film.jpg/220px-Son_film.jpg",
+                        "active": false,
+                        "genre": ["Horror", "Thriller"],
+                        "downloadLink":
+                          "https://www.mediafire.com/file/ydvx5r4c54j17bv/MoviesRush.in_Sn.2021.En915h.480p.WEB-DL.x264.ESb5.mkv/file",
+                        "trailerLink": "https://www.youtube.com/watch?v=_j7MgIltWys",
+                        "details": [
+                          "291 MB",
+                          "98 min",
+                          "WEB-DL",
+                          "Ivan Kavanagh",
+                          "Rene Bastian, Louis Tisné, AnneMarie Naughton, Ben Cornwell"
+                        ]
+                      },
+                      {
+                        "name": "Nightcrawler",
+                        "type": "movie",
+                        "desc":
+                          "NIGHTCRAWLER is a thriller set in the nocturnal underbelly of contemporary Los Angeles. Jake Gyllenhaal stars as Lou Bloom, a driven young man desperate for work who discovers the high-speed world of L.A. crime journalism. Finding a group of freelance camera crews who film crashes, fires, murder.",
+                        "img": "http://www.limitedruns.com/media/cache/bb/af/bbaf36758468fe936807824fddb3c2c3.jpg",
+                        "active": false,
+                        "genre": ["Crime", "Drama", "Thriller"],
+                        "downloadLink":
+                          "https://www.mediafire.com/file/rnr2l37k9gyajwl/MoviesRush.in_N9htcrw1r.2014.480p.B1Ry.x264.450MB..mkv/file",
+                        "trailerLink": "https://www.youtube.com/watch?v=u1uP_8VJkDQ",
+                        "details": [
+                          "450 MB",
+                          "117 min",
+                          "Blu-ray",
+                          "Dan Gilroy",
+                          "Jake Gyllenhaal, Rene Russo, Bill Paxton"
+                        ]
+                      },
+                      {
+                        "name": "Lazarus",
+                        "type": "movie",
+                        "desc":
+                          "A super powered vigilante fights an organization to free a city from darkness.",
+                        "img": "https://i0.wp.com/moviesandmania.com/wp-content/uploads/2021/03/Lazarus-movie-film-supernatural-superhero-vigilante-2021-review-reviews-Sean-Riggs-poster.jpg?resize=300%2C440&ssl=1",
+                        "active": false,
+                        "genre": ["Action"],
+                        "downloadLink": "https://moviepl.xyz/f/e2j76h-xn7ywyjy",
+                        "trailerLink": "https://www.youtube.com/watch?v=DelXSGmGIvQ",
+                        "details": [
+                          "800 MB",
+                          "105 min",
+                          "HD 720",
+                          "R.L. Scott",
+                          "Costas Mandylor, Nicki Micheaux, Sean Riggs, Shane Brolly"
+                        ]
+                      },
+                      {
+                        "name": "Insight",
+                        "type": "movie",
+                        "desc":
+                          "Jian is a counter terrorism agent who blends his skills as a martial artist and clairvoyant to bring the world’s most nefarious individuals to justice. ",
+                        "img": "https://m.media-amazon.com/images/M/MV5BMWI1OWY3MzItNTEyNi00OTRkLTk1ZmYtMmZmM2FiNzg4ZGNlXkEyXkFqcGdeQXVyNTcxMTU0MjA@._V1_UY1200_CR85,0,630,1200_AL_.jpg",
+                        "active": false,
+                        "genre": ["Action"],
+                        "downloadLink": "https://racaty.net/2ljjoet3d84m",
+                        "trailerLink": "https://www.youtube.com/watch?v=k1l0ioTCt4A",
+                        "details": [
+                          "700 MB",
+                          "80 min",
+                          "WEB-DL",
+                          "Ken Zheng, Livi Zheng",
+                          "Tony Todd, Keith David, Madeline Zima, John Savage"
+                        ]
+                      },
+                      {
+                        "name": "Boyhood",
+                        "type": "movie",
+                        "desc":
+                          "After MJ's parents' divorce, he and his sister Samantha live with their mother, whereas the father has visiting rights. Incidents that occur across a period of twelve years mould MJ's life.",
+                        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5g5UL29ZaQy_sAQ8cmHpJ5jxnYvPB5V_J4w&usqp=CAU",
+                        "active": false,
+                        "genre": ["Drama", "Epic"],
+                        "downloadLink":
+                          "https://www.mediafire.com/file/lsgrf3p7vng0hqe/MoviesRush.in_Fry.2014.D1.Ad.Hnd.480p.B1Ry.mkv/file",
+                        "trailerLink": "https://www.youtube.com/watch?v=Y0oX0xiwOv8",
+                        "details": [
+                          "650 MB",
+                          "165 min",
+                          "Blu-ray",
+                          "Richard Linklater",
+                          "Ellar Coltrane, Patricia Arquette, Ethan Hawke, Lorelei Linklater"
+                        ]
+                      }, */
